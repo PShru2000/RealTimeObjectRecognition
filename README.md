@@ -31,6 +31,8 @@ The development of this system involved completing a series of tasks, each build
 
 Please refer to the **[outputs](https://github.com/PShru2000/RealTimeObjectRecognition/tree/main/Results)** folder for results
 
+![Screenshot](https://github.com/PShru2000/RealTimeObjectRecognition/blob/main/Results/Screenshot%202024-03-01%20015750.png)
+
 ## Conclusion
 
 The Detection and Recognition of 2D Objects in Real Time project showcases the powerful capabilities of computer vision and machine learning in identifying and classifying objects in real time. Through the completion of the outlined tasks, the system demonstrates high accuracy in object recognition across various conditions. Future enhancements can include expanding the object database, improving recognition algorithms for greater accuracy, and adapting the system for specific industry needs or educational purposes.
