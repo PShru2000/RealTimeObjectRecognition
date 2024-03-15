@@ -1,18 +1,3 @@
-/*
-  Shruti Pasumarti
-  Aswin Chander Aravind Kumar
-  Spring 2024
-  CS 5330 Computer Vision
-
-  Date: 2nd March ,2024
-  Purpose: This helps us to use the defined functions in different cpp files. We are defining various functions 
-  in detect objects in real time and also added additional supporting functions for enhancing the object detection whilst testing 
-  different implentations of the same functionality 
-
-  Time travel days used : None , Submitting without extensions
-*/
-
-
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 
