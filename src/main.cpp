@@ -1,17 +1,3 @@
-/*
-  Shruti Pasumarti
-  Aswin Chander Aravind Kumar
-  Spring 2024
-  CS 5330 Computer Vision
-
-  Date: 2nd March ,2024
-  Purpose: Created both file (offline) and live (droidcam stream) for processing.Different task numbers entered in the command 
-  prompt help us in implenting various tasks in pipeline functions present in functions.cpp
-  camera Index helps us to capture video from droid camera
-  
-  Time travel days used : None , Submitting without extensions
-*/
-
 #include "functions.h"
 #include <iostream>
 #include <string>
