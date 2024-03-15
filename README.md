@@ -1,7 +1,5 @@
 # Detection and Recognition of 2D Objects in Real Time
 
-# Detection and Recognition of 2D Objects in Real Time
-
 This project focuses on developing a system for the real-time detection and recognition of 2D objects using computer vision techniques and machine learning algorithms. The goal is to accurately identify objects based on their 2D shape characteristics in various environments and lighting conditions. This README provides an overview of the project, including setup instructions, a summary of tasks completed, and a conclusion highlighting the system's capabilities and potential applications.
 
 ## Introduction
@@ -31,7 +29,7 @@ The development of this system involved completing a series of tasks, each build
 
 ## Results
 
-Please refer to the **[outputs](https://github.com/PShru2000/Implementation-of-Reinforcement-Policies-in-Gridworld/tree/main/outputs%20-RL)** folder for results
+Please refer to the **[outputs](https://github.com/PShru2000/RealTimeObjectRecognition/tree/main/Results)** folder for results
 
 ## Conclusion
 
