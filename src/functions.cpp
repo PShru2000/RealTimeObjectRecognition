@@ -1,18 +1,3 @@
-/*
-  Shruti Pasumarti
-  Aswin Chander Aravind Kumar
-  Spring 2024
-  CS 5330 Computer Vision
-
-  Date: 2nd March ,2024
-  Purpose: This helps us to use the defined functions in different cpp files. We are defining various functions 
-  in order to do real time object detection and exploring various techniques in order to properly recognize 
-  and differentiate objects in the end
-  
-  Time travel days used : None , Submitting without extensions
-*/
-
-
 #include "functions.h"
 #include <iostream>
 #include <opencv2/opencv.hpp>
